@@ -49,4 +49,4 @@ async def startBot(ctx):
         await channel.send(traitors)
 
 
-bot.run('Nzg1ODU1NDMzNDc4NzY2NjMy.X8965w.qmrwyPu7nCL_xn-9-xe6knWHWtY')
+bot.run('TOKEN')
